@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: cbdf7d915fd5fa84283f63ae9e419dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7509657027926546114
+    second: idle1
+  - first:
+      213: 7227036547466451385
+    second: FrogBoss_1
+  - first:
+      213: 743275983641061139
+    second: FrogBoss_2
+  - first:
+      213: -3030149165151861584
+    second: FrogBoss_3
+  - first:
+      213: 6822046067163724034
+    second: FrogBoss_4
+  - first:
+      213: 7062317234411900735
+    second: FrogBoss_5
+  - first:
+      213: -3994453481927880078
+    second: FrogBoss_6
+  - first:
+      213: -8690131495487323961
+    second: idleLast
+  - first:
+      213: -254037705388881759
+    second: FrogBoss_8
+  - first:
+      213: 1331344214883470690
+    second: FrogBoss_9
+  - first:
+      213: -8999991462930604776
+    second: FrogBoss_10
+  - first:
+      213: -1942256134499301843
+    second: FrogBoss_11
+  - first:
+      213: -8949884219337862555
+    second: FrogBoss_12
+  - first:
+      213: 3857789624609038349
+    second: FrogBoss_13
+  - first:
+      213: 1412494945534381966
+    second: FrogBoss_14
+  - first:
+      213: -5947570791777527204
+    second: FrogBoss_15
+  - first:
+      213: 3896612026732349003
+    second: FrogBoss_16
+  - first:
+      213: 7199627985642784543
+    second: FrogBoss_17
+  - first:
+      213: 1459803135721325903
+    second: FrogBoss_18
+  - first:
+      213: 7349509428600948437
+    second: FrogBoss_19
+  - first:
+      213: -6820353980862817961
+    second: FrogBoss_20
+  - first:
+      213: -2729879856788449314
+    second: FrogBoss_21
+  - first:
+      213: -123889556254882183
+    second: FrogBoss_22
+  - first:
+      213: 8609590025644543674
+    second: FrogBoss_23
+  - first:
+      213: -529304877397092302
+    second: FrogBoss_24
+  - first:
+      213: -6136689088715474942
+    second: FrogBoss_25
+  - first:
+      213: 7250825489695474188
+    second: FrogBoss_26
+  - first:
+      213: -9188991850372169615
+    second: FrogBoss_27
+  - first:
+      213: -3732857754609997348
+    second: FrogBoss_28
+  - first:
+      213: -2653771246540062718
+    second: FrogBoss_29
+  - first:
+      213: 2724541817488981932
+    second: FrogBoss_30
+  - first:
+      213: -6148298232089241764
+    second: FrogBoss_31
+  - first:
+      213: 3841900540676583320
+    second: FrogBoss_32
+  - first:
+      213: -640143911992294079
+    second: FrogBoss_33
+  - first:
+      213: -5201614506553212153
+    second: FrogBoss_34
+  - first:
+      213: -4353692486141476325
+    second: FrogBoss_35
+  - first:
+      213: -7608451945883439554
+    second: FrogBoss_36
+  - first:
+      213: 2180892594715373687
+    second: FrogBoss_37
+  - first:
+      213: -6912746187404939906
+    second: FrogBoss_38
+  - first:
+      213: -1485800504153243946
+    second: FrogBoss_39
+  - first:
+      213: 4856925220061345268
+    second: FrogBoss_40
+  - first:
+      213: 3229376451275729585
+    second: FrogBoss_41
+  - first:
+      213: 5024401465438647927
+    second: FrogBoss_42
+  - first:
+      213: 5438705570566745547
+    second: FrogBoss_43
+  - first:
+      213: -8075490676694043300
+    second: FrogBoss_44
+  - first:
+      213: -5436886539234685174
+    second: FrogBoss_45
+  - first:
+      213: 4342521735204062335
+    second: FrogBoss_46
+  - first:
+      213: 7299091073156717572
+    second: FrogBoss_47
+  - first:
+      213: -8689935071587535074
+    second: FrogBoss_48
+  - first:
+      213: 6001818449899960853
+    second: FrogBoss_49
+  - first:
+      213: -9164883451581296899
+    second: FrogBoss_50
+  - first:
+      213: 551486595421668068
+    second: FrogBoss_51
+  - first:
+      213: -8592208290861715431
+    second: FrogBoss_52
+  - first:
+      213: 4718505979090796341
+    second: FrogBoss_53
+  - first:
+      213: 8553166682471569673
+    second: FrogBoss_54
+  - first:
+      213: -4233422988877558593
+    second: FrogBoss_55
+  - first:
+      213: -8570236192967780103
+    second: FrogBoss_56
+  - first:
+      213: 1208597084051981007
+    second: FrogBoss_57
+  - first:
+      213: -3868881764253699648
+    second: FrogBoss_58
+  - first:
+      213: 1374607359911534090
+    second: FrogBoss_59
+  - first:
+      213: -1095976894789796635
+    second: FrogBoss_60
+  - first:
+      213: -4892185767741273225
+    second: FrogBoss_61
+  - first:
+      213: 7442761209024429639
+    second: FrogBoss_62
+  - first:
+      213: 513353870879220625
+    second: FrogBoss_63
+  - first:
+      213: -8357590157838101523
+    second: FrogBoss_64
+  - first:
+      213: 2971345767528357128
+    second: FrogBoss_65
+  - first:
+      213: 2556831538430180441
+    second: FrogBoss_66
+  - first:
+      213: -8507329509831968203
+    second: FrogBoss_67
+  - first:
+      213: 7325199995019063507
+    second: FrogBoss_68
+  - first:
+      213: -7830481025756743339
+    second: FrogBoss_69
+  - first:
+      213: -2216224427872004585
+    second: FrogBoss_70
+  - first:
+      213: 806886088683580221
+    second: FrogBoss_71
+  - first:
+      213: -1801752940007919197
+    second: FrogBoss_72
+  - first:
+      213: -1069083245997873585
+    second: FrogBoss_73
+  - first:
+      213: 2666614051029439858
+    second: FrogBoss_74
+  - first:
+      213: 229901811290734673
+    second: FrogBoss_75
+  - first:
+      213: 6846881603795785427
+    second: FrogBoss_76
+  - first:
+      213: -242728679955432303
+    second: FrogBoss_77
+  - first:
+      213: 3509583377767359102
+    second: FrogBoss_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 633
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e392c6198b658c790800000000000000
+      internalID: -7509657027926546114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 633
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9d08e03779b4460800000000000000
+      internalID: 7227036547466451385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 633
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317210fa195a05a00800000000000000
+      internalID: 743275983641061139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 633
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44da2836fb2f5d0800000000000000
+      internalID: -3030149165151861584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 633
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f4aad0c6ccae50800000000000000
+      internalID: 6822046067163724034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 633
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f8d306b14620260800000000000000
+      internalID: 7062317234411900735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 512
+        width: 126
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ddd1c8b9d098c0800000000000000
+      internalID: -3994453481927880078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleLast
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 514
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c04b087273766780800000000000000
+      internalID: -8690131495487323961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 514
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88dba8d0a797cf0800000000000000
+      internalID: -254037705388881759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 512
+        width: 132
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d86e97282e97210800000000000000
+      internalID: 1331344214883470690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 511
+        width: 127
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d197ec27b991380800000000000000
+      internalID: -8999991462930604776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 510
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2688501658bb05e0800000000000000
+      internalID: -1942256134499301843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 391
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5621e7598bf9bc380800000000000000
+      internalID: -8949884219337862555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 391
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d006201693f998530800000000000000
+      internalID: 3857789624609038349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 391
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8c935ba03a9310800000000000000
+      internalID: 1412494945534381966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 391
+        width: 167
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9c9f50ebf57da0800000000000000
+      internalID: -5947570791777527204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 391
+        width: 290
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4685e04efb831630800000000000000
+      internalID: 3896612026732349003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 391
+        width: 237
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170337f1873ae360800000000000000
+      internalID: 7199627985642784543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_18
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 391
+        width: 168
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45cba2b733424410800000000000000
+      internalID: 1459803135721325903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_19
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 391
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c42dc2e3bef560800000000000000
+      internalID: 7349509428600948437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_20
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 391
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7591040b03c3951a0800000000000000
+      internalID: -6820353980862817961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_21
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 391
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed751a8dbb48d1ad0800000000000000
+      internalID: -2729879856788449314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 302
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760c00ea1bd74ef0800000000000000
+      internalID: -123889556254882183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 357
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0a4443886b7770800000000000000
+      internalID: 8609590025644543674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 362
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2385dd4b40887a8f0800000000000000
+      internalID: -529304877397092302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 360
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208391299c916daa0800000000000000
+      internalID: -6136689088715474942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 364
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0285a9cd5b10a460800000000000000
+      internalID: 7250825489695474188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 300
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708b92f8942a7080800000000000000
+      internalID: -9188991850372169615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 328
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a86356a9323cc0800000000000000
+      internalID: -3732857754609997348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 290
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20085de8c19eb2bd0800000000000000
+      internalID: -2653771246540062718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 298
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb02709548fc520800000000000000
+      internalID: 2724541817488981932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57982f355bdcaaa0800000000000000
+      internalID: -6148298232089241764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fa86dbf2c215530800000000000000
+      internalID: 3841900540676583320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 306
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450290f080cd17f0800000000000000
+      internalID: -640143911992294079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70380666a2720d7b0800000000000000
+      internalID: -5201614506553212153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 161
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12004e20c39493c0800000000000000
+      internalID: -4353692486141476325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 202
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eecfa3449596690800000000000000
+      internalID: -7608451945883439554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 202
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7703a419246144e10800000000000000
+      internalID: 2180892594715373687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 202
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dea45c7fdf010a0800000000000000
+      internalID: -6912746187404939906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de79d64050616be0800000000000000
+      internalID: -1485800504153243946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 181
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5746a21c3476340800000000000000
+      internalID: 4856925220061345268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba2d40c5cc01dc20800000000000000
+      internalID: 3229376451275729585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 181
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763c6c23824ab540800000000000000
+      internalID: 5024401465438647927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 181
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda193a6e92a7b40800000000000000
+      internalID: 5438705570566745547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 181
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553cace3081eef80800000000000000
+      internalID: -8075490676694043300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_45
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 67
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f40d89f7c4c84b0800000000000000
+      internalID: -5436886539234685174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_46
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744040b28cb34c30800000000000000
+      internalID: 4342521735204062335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_47
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 129
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1bb6a8a49b4560800000000000000
+      internalID: 7299091073156717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_48
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 133
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f0d8f716276780800000000000000
+      internalID: -8689935071587535074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a3ca8c41eba4350800000000000000
+      internalID: 6001818449899960853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 21
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe04a4fe0bcfc080800000000000000
+      internalID: -9164883451581296899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 21
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28f7af22647a700800000000000000
+      internalID: 551486595421668068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 21
+        width: 135
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910750b351852c880800000000000000
+      internalID: -8592208290861715431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_53
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 16
+        width: 147
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f734230308b7140800000000000000
+      internalID: 4718505979090796341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_54
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 16
+        width: 166
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099c65f7c3f2b670800000000000000
+      internalID: 8553166682471569673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_55
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 133
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc0bf3a83cdf35c0800000000000000
+      internalID: -4233422988877558593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_56
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 100
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f895fce697601980800000000000000
+      internalID: -8570236192967780103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_57
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 38
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2cd7ff4acc5c010800000000000000
+      internalID: 1208597084051981007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_58
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1fbab9888fe4ac0800000000000000
+      internalID: -3868881764253699648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_59
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 91
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e1a216c16931310800000000000000
+      internalID: 1374607359911534090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_60
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 98
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb40822de4ac0f0800000000000000
+      internalID: -1095976894789796635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_61
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 54
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4f82d6f67b1cb0800000000000000
+      internalID: -4892185767741273225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_62
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 70
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e35fbd2eff94760800000000000000
+      internalID: 7442761209024429639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_63
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 63
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e3dd20accf1700800000000000000
+      internalID: 513353870879220625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_64
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 12
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de352c72800e30c80800000000000000
+      internalID: -8357590157838101523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_65
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d53629b375c3920800000000000000
+      internalID: 2971345767528357128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_66
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 10
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c75aeccb0bb7320800000000000000
+      internalID: 2556831538430180441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_67
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 17
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a744372e4efe980800000000000000
+      internalID: -8507329509831968203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_68
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 33
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0fdcbb59658a560800000000000000
+      internalID: 7325199995019063507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_69
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 17
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593557aefa845390800000000000000
+      internalID: -7830481025756743339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_70
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 31
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716552aff936e31e0800000000000000
+      internalID: -2216224427872004585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_71
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 17
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b60326f92a23b00800000000000000
+      internalID: 806886088683580221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_72
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 29
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ffc54f33eef6e0800000000000000
+      internalID: -1801752940007919197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_73
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 17
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a9f6b37ad921f0800000000000000
+      internalID: -1069083245997873585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_74
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 27
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275dca0e957b10520800000000000000
+      internalID: 2666614051029439858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_75
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 17
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1500433ba76c03300800000000000000
+      internalID: 229901811290734673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_76
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69765da82050f50800000000000000
+      internalID: 6846881603795785427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_77
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf4763d87a1acf0800000000000000
+      internalID: -242728679955432303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogBoss_78
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 5
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72607dcc7b84b030800000000000000
+      internalID: 3509583377767359102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

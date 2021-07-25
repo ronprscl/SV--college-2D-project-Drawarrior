@@ -1,0 +1,2734 @@
+fileFormatVersion: 2
+guid: 5733217de2c24d549a3d867ce28181ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7487067562174242773
+    second: enemyDwarrior_0
+  - first:
+      213: 3652348232041748349
+    second: enemyDwarrior_1
+  - first:
+      213: 7806772120191294160
+    second: enemyDwarrior_2
+  - first:
+      213: -1023989982590474675
+    second: enemyDwarrior_3
+  - first:
+      213: -7207414507697755215
+    second: enemyDwarrior_4
+  - first:
+      213: -7806117534562752158
+    second: enemyDwarrior_5
+  - first:
+      213: 6538366350432187095
+    second: enemyDwarrior_6
+  - first:
+      213: -2365658319307839419
+    second: enemyDwarrior_7
+  - first:
+      213: -4642042743716508487
+    second: enemyDwarrior_8
+  - first:
+      213: -8562185053799764768
+    second: enemyDwarrior_9
+  - first:
+      213: 8950862418037596165
+    second: enemyDwarrior_10
+  - first:
+      213: 6302163798935327144
+    second: enemyDwarrior_11
+  - first:
+      213: 6788563026177887398
+    second: enemyDwarrior_12
+  - first:
+      213: -7692873435087806647
+    second: enemyDwarrior_13
+  - first:
+      213: 699501648585657512
+    second: enemyDwarrior_14
+  - first:
+      213: -4319700069216529506
+    second: enemyDwarrior_15
+  - first:
+      213: 2229810958836948341
+    second: enemyDwarrior_16
+  - first:
+      213: -236017704860510282
+    second: enemyDwarrior_17
+  - first:
+      213: 1038771596063900822
+    second: enemyDwarrior_18
+  - first:
+      213: 2115503849317801048
+    second: enemyDwarrior_19
+  - first:
+      213: -7868711734861820860
+    second: enemyDwarrior_20
+  - first:
+      213: 9003606443945124131
+    second: enemyDwarrior_21
+  - first:
+      213: -8193267026809096495
+    second: enemyDwarrior_22
+  - first:
+      213: -6189059258536171104
+    second: enemyDwarrior_23
+  - first:
+      213: 5136934609352281869
+    second: enemyDwarrior_24
+  - first:
+      213: 3943055666034777473
+    second: enemyDwarrior_25
+  - first:
+      213: -2692539256102500548
+    second: enemyDwarrior_26
+  - first:
+      213: -1654029323033155508
+    second: enemyDwarrior_27
+  - first:
+      213: 3493246703670464190
+    second: enemyDwarrior_28
+  - first:
+      213: -7091566132727217069
+    second: enemyDwarrior_29
+  - first:
+      213: -6891283981937189113
+    second: enemyDwarrior_30
+  - first:
+      213: -2584669241071509204
+    second: enemyDwarrior_31
+  - first:
+      213: -3127638887612861399
+    second: enemyDwarrior_32
+  - first:
+      213: 512304342453351505
+    second: enemyDwarrior_33
+  - first:
+      213: 3347411650019040120
+    second: enemyDwarrior_34
+  - first:
+      213: -3928700223680415685
+    second: enemyDwarrior_35
+  - first:
+      213: -7308140548807977792
+    second: enemyDmg
+  - first:
+      213: -265332264874280868
+    second: enemyDwarrior_37
+  - first:
+      213: 6408646078778851301
+    second: enemyDwarrior_38
+  - first:
+      213: -4173110789125811239
+    second: enemyDwarrior_39
+  - first:
+      213: 7262854998945663719
+    second: enemyDwarrior_40
+  - first:
+      213: -801554156189975970
+    second: enemyDwarrior_41
+  - first:
+      213: 3193770641869532026
+    second: enemyDwarrior_42
+  - first:
+      213: -6667596844819163531
+    second: enemyDwarrior_43
+  - first:
+      213: -7240030297408136758
+    second: enemyDwarrior_44
+  - first:
+      213: 8233493249183457389
+    second: enemyDwarrior_45
+  - first:
+      213: 3618593544352092447
+    second: enemyDwarrior_46
+  - first:
+      213: 5539801169407973741
+    second: enemyDwarrior_47
+  - first:
+      213: -7828950961246439931
+    second: enemyDwarrior_48
+  - first:
+      213: 6126391992423240858
+    second: enemyDwarrior_49
+  - first:
+      213: 6398337354762976865
+    second: enemyDwarrior_50
+  - first:
+      213: 1972354247200938567
+    second: enemyDwarrior_51
+  - first:
+      213: 8398193605143716367
+    second: enemyDwarrior_52
+  - first:
+      213: 2656659652557848166
+    second: enemyDwarrior_53
+  - first:
+      213: -5331111539763872977
+    second: enemyDwarrior_54
+  - first:
+      213: 6499124077134863549
+    second: enemyDwarrior_55
+  - first:
+      213: -2162674745792848118
+    second: enemyDwarrior_56
+  - first:
+      213: -728206149148878214
+    second: enemyDwarrior_57
+  - first:
+      213: -77116033208394227
+    second: enemyDwarrior_58
+  - first:
+      213: -5302667338823243010
+    second: enemyDwarrior_59
+  - first:
+      213: 8622304394626557961
+    second: enemyDwarrior_60
+  - first:
+      213: 3772750479360649318
+    second: enemyDwarrior_61
+  - first:
+      213: 5564626995680407929
+    second: enemyDwarrior_62
+  - first:
+      213: -8157794388358519794
+    second: enemyDwarrior_63
+  - first:
+      213: 6142899015396545949
+    second: enemyDwarrior_64
+  - first:
+      213: -2562268987990858407
+    second: enemyDwarrior_65
+  - first:
+      213: -8192993273704605162
+    second: enemyDwarrior_66
+  - first:
+      213: -2185815022974274213
+    second: enemyDwarrior_67
+  - first:
+      213: 7058919513223011757
+    second: enemyDwarrior_68
+  - first:
+      213: 7853238256210624270
+    second: enemyDwarrior_69
+  - first:
+      213: 4328581574246439079
+    second: enemyDwarrior_70
+  - first:
+      213: 8992471618600279671
+    second: enemyDwarrior_71
+  - first:
+      213: 6921591047845550919
+    second: enemyDwarrior_72
+  - first:
+      213: 8767316039947280241
+    second: enemyDwarrior_73
+  - first:
+      213: 7662118219948254549
+    second: enemyDwarrior_74
+  - first:
+      213: 6984227236826389424
+    second: enemyDwarrior_75
+  - first:
+      213: 8278488223685306531
+    second: enemyDwarrior_76
+  - first:
+      213: -5829810606922719340
+    second: enemyDwarrior_77
+  - first:
+      213: -8255175561686847763
+    second: enemyDwarrior_78
+  - first:
+      213: -2042128257989594217
+    second: enemyDwarrior_79
+  - first:
+      213: -1333937228851855750
+    second: enemyDwarrior_80
+  - first:
+      213: -5489979617216697693
+    second: enemyDwarrior_81
+  - first:
+      213: -7400662287242055997
+    second: enemyDwarrior_82
+  - first:
+      213: 5449442927413850322
+    second: enemyDwarrior_83
+  - first:
+      213: -8204387674670311804
+    second: enemyDwarrior_84
+  - first:
+      213: -1951853292115445007
+    second: enemyDwarrior_85
+  - first:
+      213: 5712948591528378869
+    second: enemyDwarrior_86
+  - first:
+      213: 9136269660520666987
+    second: enemyDwarrior_87
+  - first:
+      213: 3453089472812792555
+    second: enemyDwarrior_88
+  - first:
+      213: 816788054710559552
+    second: enemyDwarrior_89
+  - first:
+      213: -761949119833606586
+    second: enemyDwarrior_90
+  - first:
+      213: -3108036560324031171
+    second: enemyDwarrior_91
+  - first:
+      213: 6935885338360229192
+    second: enemyDwarrior_92
+  - first:
+      213: -2765026483238882910
+    second: enemyDwarrior_93
+  - first:
+      213: 2492594278669251211
+    second: enemyDwarrior_94
+  - first:
+      213: 7325070282882309683
+    second: enemyDwarrior_95
+  - first:
+      213: -8064300631956863821
+    second: enemyDwarrior_96
+  - first:
+      213: -3822213686883549551
+    second: enemyDwarrior_97
+  - first:
+      213: 354485258195285493
+    second: enemyDwarrior_98
+  - first:
+      213: -8988765411128588249
+    second: enemyDwarrior_99
+  - first:
+      213: 450896089668890609
+    second: enemyDwarrior_100
+  - first:
+      213: 3733724574370036510
+    second: enemyDwarrior_101
+  - first:
+      213: -4198441946535186683
+    second: enemyDwarrior_102
+  - first:
+      213: 4512094693110322802
+    second: enemyDwarrior_103
+  - first:
+      213: 6507714204652925063
+    second: enemyDwarrior_104
+  - first:
+      213: -4190352833978622612
+    second: enemyDwarrior_105
+  - first:
+      213: 345346750394253672
+    second: enemyDwarrior_106
+  - first:
+      213: -2338320775895197444
+    second: enemyDwarrior_107
+  - first:
+      213: 4135839471199610956
+    second: enemyDwarrior_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyDwarrior_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 374
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20214b68b7981890800000000000000
+      internalID: -7487067562174242773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 449
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77dfd6bd5fbfa230800000000000000
+      internalID: 3652348232041748349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 374
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadc6a91e9375c60800000000000000
+      internalID: 7806772120191294160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 443
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46e222498e0ac1f0800000000000000
+      internalID: -1023989982590474675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 374
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbada711be1afb90800000000000000
+      internalID: -7207414507697755215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269607df5791ba390800000000000000
+      internalID: -7806117534562752158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 374
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b0e0dd81fcba50800000000000000
+      internalID: 6538366350432187095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 450
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54865b9da4e7b2fd0800000000000000
+      internalID: -2365658319307839419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 374
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc099c18b6249fb0800000000000000
+      internalID: -4642042743716508487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 374
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2b17de020d2980800000000000000
+      internalID: -8562185053799764768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 452
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500668c02f9d73c70800000000000000
+      internalID: 8950862418037596165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 420
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ddd7b598c57750800000000000000
+      internalID: 6302163798935327144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 427
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0faeda12d53e50800000000000000
+      internalID: 6788563026177887398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 425
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f5d8f8e5c6d3590800000000000000
+      internalID: -7692873435087806647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 402
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac8fb31b0125b900800000000000000
+      internalID: 699501648585657512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 406
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935e1e7ca75d04c0800000000000000
+      internalID: -4319700069216529506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 406
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddfb5c041e1fe10800000000000000
+      internalID: 2229810958836948341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 407
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7161dd52f79bcf0800000000000000
+      internalID: -236017704860510282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 408
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694872253457a6e00800000000000000
+      internalID: 1038771596063900822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 408
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1f83ea87cb5d10800000000000000
+      internalID: 2115503849317801048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 274
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c0d9b0e58bcc290800000000000000
+      internalID: -7868711734861820860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 347
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32164cc8b5c33fc70800000000000000
+      internalID: 9003606443945124131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 274
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67f158c0bab4e80800000000000000
+      internalID: -8193267026809096495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 274
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9eb19356b0c1aa0800000000000000
+      internalID: -6189059258536171104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 274
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f4ad08fce0a4740800000000000000
+      internalID: 5136934609352281869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 274
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d189fac3c88b630800000000000000
+      internalID: 3943055666034777473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 274
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374730ffcd22aad0800000000000000
+      internalID: -2692539256102500548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 326
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4867881815bb09e0800000000000000
+      internalID: -1654029323033155508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe05157e518a7030800000000000000
+      internalID: 3493246703670464190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 322
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548a9dcc22b59d90800000000000000
+      internalID: -7091566132727217069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5b42eabd3d50a0800000000000000
+      internalID: -6891283981937189113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 326
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ed08f409612cd0800000000000000
+      internalID: -2584669241071509204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_32
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 328
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924332ea0056894d0800000000000000
+      internalID: -3127638887612861399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 309
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15472dcc5121c1700800000000000000
+      internalID: 512304342453351505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 309
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b936c0925647e20800000000000000
+      internalID: 3347411650019040120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 309
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f78236f37a79c0800000000000000
+      internalID: -3928700223680415685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDmg
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 142
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41cab14e4449a90800000000000000
+      internalID: -7308140548807977792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 238
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f7bcf5b9515cf0800000000000000
+      internalID: -265332264874280868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 204
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef30d877a510f850800000000000000
+      internalID: 6408646078778851301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d35ecde8d12616c0800000000000000
+      internalID: -4173110789125811239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea835b2428dac460800000000000000
+      internalID: 7262854998945663719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 209
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5afe04edbe40e4f0800000000000000
+      internalID: -801554156189975970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_42
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 209
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b64ba3a7d825c20800000000000000
+      internalID: 3193770641869532026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 209
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d90ffeffe773a0800000000000000
+      internalID: -6667596844819163531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 209
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac91ce7cdce368b90800000000000000
+      internalID: -7240030297408136758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 206
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60282abc7e334270800000000000000
+      internalID: 8233493249183457389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 206
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11d0ad08a3d73230800000000000000
+      internalID: 3618593544352092447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 209
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691bdcffc351ec40800000000000000
+      internalID: 5539801169407973741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_48
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 206
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f3fe849af95390800000000000000
+      internalID: -7828950961246439931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 209
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945f2fde01550550800000000000000
+      internalID: 6126391992423240858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 206
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e72cf9ce57bc850800000000000000
+      internalID: 6398337354762976865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 209
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a15a3ecb53f5b10800000000000000
+      internalID: 1972354247200938567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 209
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026c8d96906c8470800000000000000
+      internalID: 8398193605143716367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 193
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb2dfd0e95ed420800000000000000
+      internalID: 2656659652557848166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b736ecc461406b0800000000000000
+      internalID: -5331111539763872977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_55
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 193
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcdfc01ae6813a50800000000000000
+      internalID: 6499124077134863549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 193
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1f4ce6c2acf1e0800000000000000
+      internalID: -2162674745792848118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad9b49d54e4e5f0800000000000000
+      internalID: -728206149148878214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 190
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e502a50670eeef0800000000000000
+      internalID: -77116033208394227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 190
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaef5b66242966b0800000000000000
+      internalID: -5302667338823243010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908610bf92498a770800000000000000
+      internalID: 8622304394626557961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 193
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e97472908b5430800000000000000
+      internalID: 3772750479360649318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971741915c6893d40800000000000000
+      internalID: 5564626995680407929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042733c931b9ce80800000000000000
+      internalID: -8157794388358519794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 193
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95dec7ab16ff3550800000000000000
+      internalID: 6142899015396545949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 177
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552ecf4eedf07cd0800000000000000
+      internalID: -2562268987990858407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a1ca1a604ac4e80800000000000000
+      internalID: -8192993273704605162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 174
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f7ea41dc6aa1e0800000000000000
+      internalID: -2185815022974274213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 177
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1bb3c5e156f160800000000000000
+      internalID: 7058919513223011757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f31f5f59e4cfc60800000000000000
+      internalID: 7853238256210624270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 177
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8924a0206321c30800000000000000
+      internalID: 4328581574246439079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 177
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e937ffa4dabcc70800000000000000
+      internalID: 8992471618600279671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 177
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b9b57c26e6e0060800000000000000
+      internalID: 6921591047845550919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 12
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f54a2bc73cba970800000000000000
+      internalID: 8767316039947280241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556017ecef455a60800000000000000
+      internalID: 7662118219948254549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 12
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb15a9faa5fce060800000000000000
+      internalID: 6984227236826389424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 79
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8640a9d2913e270800000000000000
+      internalID: 8278488223685306531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 12
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1192042a581fa0800000000000000
+      internalID: -5829810606922719340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_78
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 77
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6b2f7099bf6d80800000000000000
+      internalID: -8255175561686847763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 12
+        width: 99
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933eb44b27e8a3e0800000000000000
+      internalID: -2042128257989594217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_80
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 12
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ebd996827ec7de0800000000000000
+      internalID: -1333937228851855750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_81
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 11
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae9a310acafc3b0800000000000000
+      internalID: -5489979617216697693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceae423cd09b4990800000000000000
+      internalID: -7400662287242055997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 86
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07448587f40ab40800000000000000
+      internalID: 5449442927413850322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 70
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486deabe0e8242e80800000000000000
+      internalID: -8204387674670311804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 69
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa38cda5cf99e4e0800000000000000
+      internalID: -1951853292115445007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_86
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 12
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10e1ab978784f40800000000000000
+      internalID: 5712948591528378869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_87
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 12
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675387a9dc8ace70800000000000000
+      internalID: 9136269660520666987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_88
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab5ac8496dbef20800000000000000
+      internalID: 3453089472812792555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_89
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 8
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432ec18860d55b00800000000000000
+      internalID: 816788054710559552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_90
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 6
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646756fff430d65f0800000000000000
+      internalID: -761949119833606586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_91
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 8
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d85f827390ed4d0800000000000000
+      internalID: -3108036560324031171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_92
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 19
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d2dc3a7f6314060800000000000000
+      internalID: 6935885338360229192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_93
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 10
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1bfff2017a0a9d0800000000000000
+      internalID: -2765026483238882910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_94
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 18
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8270454a49779220800000000000000
+      internalID: 2492594278669251211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_95
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e58f5cc90e7a560800000000000000
+      internalID: 7325070282882309683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_96
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4c04e3d49d51090800000000000000
+      internalID: -8064300631956863821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_97
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 21
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7ba917e4c4fac0800000000000000
+      internalID: -3822213686883549551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_98
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 16
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b7d4d6726be400800000000000000
+      internalID: 354485258195285493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_99
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 20
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728cc5cab7d714380800000000000000
+      internalID: -8988765411128588249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_100
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 11
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa357ca97e14600800000000000000
+      internalID: 450896089668890609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_101
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 8
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf870e7bad0d330800000000000000
+      internalID: 3733724574370036510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_102
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 15
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fabae3b432cb5c0800000000000000
+      internalID: -4198441946535186683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_103
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 14
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27614cf973e2e9e30800000000000000
+      internalID: 4512094693110322802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_104
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 12
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f91cf69b005a50800000000000000
+      internalID: 6507714204652925063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_105
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 8
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d17278c40e8d5c0800000000000000
+      internalID: -4190352833978622612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_106
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 10
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861c59d2a0beac400800000000000000
+      internalID: 345346750394253672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_107
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 13
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d9dda4ad9c8fd0800000000000000
+      internalID: -2338320775895197444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyDwarrior_108
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 11
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4864e02614756930800000000000000
+      internalID: 4135839471199610956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
